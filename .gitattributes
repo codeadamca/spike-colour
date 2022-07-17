@@ -1,1 +1,3 @@
-*.lms text
+*.lms		python
+colour.lms		python
+lights.lms		python
