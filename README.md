@@ -1,4 +1,4 @@
-# LEGO Spike Hub and the Colour Sensor
+# LEGO® Spike Hub and the Colour Sensor
 
 A Python snippet utilizing the LEGO Spike colour sensor, [MicroPython](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/), and the `get_color()` and `wait_for_new_color()` commands.
 
